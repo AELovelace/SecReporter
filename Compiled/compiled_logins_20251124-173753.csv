@@ -1,0 +1,2 @@
+user,ip,count,city,region,country,location_full,trust_status
+MSFT-USER@yourdomain.com,x.x.x.x,231,example city,Washington,United States,"Example City, WA",Known

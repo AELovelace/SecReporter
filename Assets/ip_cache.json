@@ -1,0 +1,135 @@
+{
+  "104.245.128.129": {
+    "city": "Yakima",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Yakima, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "131.150.216.239": {
+    "city": "Pendleton",
+    "region": "Oregon",
+    "country": "United States",
+    "location_full": "Pendleton, Oregon, United States",
+    "trust_status": "unknown"
+  },
+  "207.109.47.195": {
+    "city": "Portland",
+    "region": "Oregon",
+    "country": "United States",
+    "location_full": "Portland, Oregon, United States",
+    "trust_status": "unknown"
+  },
+  "207.109.47.197": {
+    "city": "Portland",
+    "region": "Oregon",
+    "country": "United States",
+    "location_full": "Portland, Oregon, United States",
+    "trust_status": "unknown"
+  },
+  "207.109.47.198": {
+    "city": "Portland",
+    "region": "Oregon",
+    "country": "United States",
+    "location_full": "Portland, Oregon, United States",
+    "trust_status": "unknown"
+  },
+  "2600:6c54:7a00:e82:1938:3dfb:9057:ea37": {
+    "city": "Kennewick",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Kennewick, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "2600:6c54:7a00:e82:68f0:4146:3f2e:4ca6": {
+    "city": "Kennewick",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Kennewick, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "2605:59ca:3333:ac08:dd5f:7db6:3575:eb10": {
+    "city": "Portland",
+    "region": "Oregon",
+    "country": "United States",
+    "location_full": "Portland, Oregon, United States",
+    "trust_status": "unknown"
+  },
+  "2a04:4e41:2606:3e81::2f66:1e81": {
+    "city": "Bothell",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Bothell, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "2a04:4e41:4206:3817::ac08:8817": {
+    "city": "Bothell",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Bothell, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "50.37.174.242": {
+    "city": "Coeur d'Alene",
+    "region": "Idaho",
+    "country": "United States",
+    "location_full": "Coeur d'Alene, Idaho, United States",
+    "trust_status": "unknown"
+  },
+  "50.52.40.130": {
+    "city": "Spokane",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Spokane, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "50.52.40.131": {
+    "city": "Spokane",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Spokane, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "50.52.40.132": {
+    "city": "Spokane",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Spokane, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "63.151.1.130": {
+    "city": "New York",
+    "region": "New York",
+    "country": "United States",
+    "location_full": "New York, New York, United States",
+    "trust_status": "unknown"
+  },
+  "63.157.255.42": {
+    "city": "Pasco",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Pasco, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "63.157.255.43": {
+    "city": "Pasco",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Pasco, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "64.146.230.51": {
+    "city": "Dayton",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Dayton, Washington, United States",
+    "trust_status": "unknown"
+  },
+  "66.243.254.155": {
+    "city": "Ellensburg",
+    "region": "Washington",
+    "country": "United States",
+    "location_full": "Ellensburg, Washington, United States",
+    "trust_status": "unknown"
+  }
+}
